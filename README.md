@@ -86,7 +86,7 @@ I have taught a wide range of undergraduate computer science courses since 2013,
 - **Computer Security**
 - **Network Protocols**
 - **Web Development**
-- **Data Structures** (Queues, Stacks, Linked Lists)
+- **Data Structures and Algorithms**
 - **Artificial Intelligence**
 - **Computer Fundamentals II**
 - **Database Design**
