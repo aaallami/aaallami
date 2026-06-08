@@ -9,6 +9,15 @@ AI & Privacy Enthusiast</h1>
 
 ## 📚 Publications
 
+### 2026
+- **SVEvote: Scalable, Secure and Verifiable E-Voting**  
+  *A. Allami* *(Note: You can add your co-authors here if applicable)*  
+  *IEEE Computers, Software, and Applications Conference (COMPSAC 2026)*
+
+- **Anonymous Task Assignment and Worker Payment in Mobile Crowdsensing**  
+  *T. Nicewarner, A. Allami, D. Lin*  
+  *IEEE Transactions on Emerging Topics in Computing, 1–16*
+
 ### 2025
 - **Oblivious and Distributed Firewall Policies for Securing Firewalls from Malicious Attacks**  
   *A. Allami, T. Nicewarner, K. Goss, A. Kundu, W. Jiang, D. Lin*  
