@@ -11,7 +11,7 @@ AI & Privacy Enthusiast</h1>
 
 ### 2026
 - **SVEvote: Scalable, Secure and Verifiable E-Voting**  
-  *A. Allami* *(Note: You can add your co-authors here if applicable)*  
+  *A. Allami*
   *IEEE Computers, Software, and Applications Conference (COMPSAC 2026)*
 
 - **Anonymous Task Assignment and Worker Payment in Mobile Crowdsensing**  
